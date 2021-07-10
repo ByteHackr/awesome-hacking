@@ -2212,3 +2212,18 @@
 [submodule "Penetration Testing/Post Exploitation/MicroBackdoor"]
 	path = Penetration Testing/Post Exploitation/MicroBackdoor
 	url = https://github.com/Cr4sh/MicroBackdoor.git
+[submodule "Security/DevOps/trivy"]
+	path = Security/DevOps/trivy
+	url = https://github.com/aquasecurity/trivy.git
+[submodule "Penetration Testing/Exploits/CVE-2021-31166"]
+	path = Penetration Testing/Exploits/CVE-2021-31166
+	url = https://github.com/0vercl0k/CVE-2021-31166.git
+[submodule "Security/Cloud Security/patrolaroid"]
+	path = Security/Cloud Security/patrolaroid
+	url = https://github.com/rpetrich/patrolaroid.git
+[submodule "Penetration Testing/Exploiting/msdat"]
+	path = Penetration Testing/Exploiting/msdat
+	url = https://github.com/quentinhardy/msdat.git
+[submodule "Penetration Testing/Exploits/PrintNightmare"]
+	path = Penetration Testing/Exploits/PrintNightmare
+	url = https://github.com/afwu/PrintNightmare.git
